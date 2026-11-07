@@ -69,5 +69,12 @@ React application with Firebase email authentication and Google sign-in function
 - GitHub: [@shahfaisal3863](https://github.com/shahfaisal3863)
 
 ---
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahfaisal3863&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahfaisal3863&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shahfaisal3863&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
